@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě věcné kapitoly), **25 samostatně nadepsaných ustanovení** (§ 1 až § 16c, § 18 a § 19), **39 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **7 zásad** v [ZASADY.md](ZASADY.md) a **0 místních karet rozhodnutí**. Místní důvodová zpráva v repozitáři není.
+Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě věcné kapitoly), **25 samostatně nadepsaných ustanovení** (§ 1 až § 16c, § 18 a § 19), **39 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **7 zásad** v [ZASADY.md](ZASADY.md) a **1 místní karta rozhodnutí** ([judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md), k § 5 odst. 2 a 5). Místní důvodová zpráva v repozitáři není.
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -232,11 +232,11 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku místních karet rozhodnutí: počet karet je **0**, soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly neobsahují **žádnou** spisovou značku. Složka `judikatura/` má být doplněna strojově později; do té doby jde o vědomou mezeru, nikoli o zjištění, že rozhodovací praxe neexistuje.
-- [Komentář k zákonu č. 96/1993 Sb.](00-uvod.md): „Místní materiály neobsahují rozhodovací praxi soudů ani správních orgánů, která by se k jednotlivým ustanovením vázala; komentář proto žádné spisové značky neuvádí“
-- [Poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky, protože místní materiály k tomuto předpisu žádnou ověřitelnou rozhodovací praxi neobsahují“
-- [ZASADY.md](ZASADY.md) proto výslovně staví zásady jen na textu zákona, systematice a výkladu v kapitolách.
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Nejvíce by doplnění judikatury prověřilo zejména výkladové otázky k § 5 odst. 7 (VOP jako součást smlouvy), § 5 odst. 6 ve vztahu k § 16a odst. 2 písm. f) bodu 2, § 12 odst. 5 (exekuce) a § 16 odst. 3 (počátek lhůt).
+Repozitář obsahuje **1** místní kartu rozhodnutí: [judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md) (NS 32 Cdo 2936/2012, 19. 12. 2012, kat. A). Karta je připojena u § 1 a vyhodnocena u § 5; věcně se týká § 5 odst. 2 a 5 (překlenovací úvěr, další dlužník, platnost smlouvy) a byla vydána k historickému znění zákona a k úpravě před 1. 1. 2014. Ostatní ustanovení zůstávají bez místní judikatury.
+- [§ 5 — vyhodnocení karty](01-stavebni-sporeni.md): „Karta tak potvrzuje, že omezení okruhu oprávněných osob v odst. 2 a 5 míří na stavební spořitelnu (regulatorní a přestupková rovina), nikoli na platnost závazku spoludlužníka.“
+- [§ 5 — časový dosah karty](01-stavebni-sporeni.md): „při aplikaci na smlouvy uzavřené za účinnosti občanského zákoníku č. 89/2012 Sb. je třeba závěr ověřit podle jeho pravidel o neplatnosti“
+- [ZASADY.md](ZASADY.md) staví zásady na textu zákona, systematice a výkladu v kapitolách; kartu uvádí jen u zásady 3.
+K ostatním ustanovením místní korpus kartu ani citaci rozhodnutí neposkytuje; judikatorní závěr se proto nesmí domýšlet. Nejvíce by doplnění judikatury prověřilo zejména výkladové otázky k § 5 odst. 7 (VOP jako součást smlouvy), § 5 odst. 6 ve vztahu k § 16a odst. 2 písm. f) bodu 2, § 12 odst. 5 (exekuce) a § 16 odst. 3 (počátek lhůt).
 
 **Hloubkový test.**
 - U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
@@ -261,7 +261,7 @@ Všech **25** ustanovení má oddíl „G. Protiargumenty a rizika“; kapitoly 
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu.
-- U každé varianty uveďte textový, systematický, historický a účelový argument; místní judikatorní argument zatím chybí.
+- U každé varianty uveďte textový, systematický, historický a účelový argument; k uvedeným sporným otázkám místní judikatorní argument chybí.
 - Porovnejte praktické následky variant (pro účastníka, spořitelnu a stát) a vysvětlete, který argument převáží a za jakých předpokladů.
 - V sankční rovině výklad k tíži adresáta nepřipouštějte; není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu.
 
@@ -315,8 +315,8 @@ Příklady úplné subsumpce:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **3 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- repozitář zatím neobsahuje místní karty rozhodnutí; složka `judikatura/` se doplní strojově později.
-- soubor zásad neposkytuje odkaz na místní kartu s citovatelnou tezí.
+- repozitář obsahuje jen 1 místní kartu rozhodnutí ([NS 32 Cdo 2936/2012](judikatura/NS-32-Cdo-2936-2012.md), § 5 odst. 2 a 5, historické znění zákona a úprava před 1. 1. 2014); ostatní ustanovení zůstávají bez místní judikatury.
+- soubor zásad odkazuje na místní kartu jen u zásady 3 (§ 5 odst. 2 a 5).
 - místní důvodová zpráva k zákonu ani k jeho novelám není k dispozici.
 - přechodná ustanovení novel (zejména zákona č. 349/2023 Sb. a novel týkajících se smluv uzavřených do 31. 12. 2003) nejsou v místním korpusu v doslovném znění.
 - kapitola 2 nemá u ustanovení oddíl „Typicky rozhodné důkazy / podklady“.
@@ -335,13 +335,13 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Komentář k zákonu č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření](00-uvod.md) | ano | nenalezeno | ano | jen konstatování absence | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — Stavební spoření (část I, § 1–9a)](01-stavebni-sporeni.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Komentář k zákonu č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření](00-uvod.md) | ano | nenalezeno | ano | odkaz na 1 kartu | ano | ano | nenalezeno | ano |
+| [Kapitola 1 — Stavební spoření (část I, § 1–9a)](01-stavebni-sporeni.md) | ano | ano | ano | 1 karta (§ 1, § 5) | ano | ano | ano | ano |
 | [Kapitola 2 — Státní podpora, přestupky a ustanovení závěrečná (části II–IV, § 10–19)](02-statni-podpora-zaverecna.md) | ano | jen checklisty | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** citovatelná rozhodnutí nebyla nalezena v žádné ze 3 kapitol; doplnit po strojovém naplnění složky `judikatura/`.
+- **Judikatura:** jediné místní rozhodnutí ([NS 32 Cdo 2936/2012](judikatura/NS-32-Cdo-2936-2012.md)) je v [kapitole 1](01-stavebni-sporeni.md) u § 1 a § 5 (§ 5 odst. 2 a 5, historické znění a úprava před 1. 1. 2014); [kapitola 2](02-statni-podpora-zaverecna.md) místní judikaturu nemá.
 - **Důkazy:** samostatný důkazní oddíl chybí v [úvodu](00-uvod.md) a v [kapitole 2](02-statni-podpora-zaverecna.md).
 - **Časová působnost:** ověřit přechodná ustanovení novel mimo konsolidovaný text.
 

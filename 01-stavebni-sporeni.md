@@ -28,6 +28,8 @@ Ustanovení obsahuje legální definici stavebního spoření. Jde o **účelov�
 
 **Písm. c)** – státní podporu mohou získat jen **fyzické osoby**, a to jen jsou-li účastníky. Pro právnické osoby je stavební spoření pouze spořicím a úvěrovým produktem bez podpory. Slovo „možnost“ vyjadřuje, že podpora není automatická: vyžaduje prohlášení ve smlouvě (§ 5 odst. 1), splnění osobních podmínek (§ 4 odst. 2 a 3) a podmínek části II.
 
+*Poznámka:* níže připojená místní karta se věcně týká § 5 odst. 2 a 5 (překlenovací úvěr a další dlužník); její vyhodnocení je uvedeno u § 5.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [32 Cdo 2936/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5265953C754D2FBFC1257B57003D4BE7?openDocument) — 19. 12. 2012, kat. A
@@ -306,6 +308,8 @@ Rodné číslo je nezbytné, neboť slouží jako identifikátor v informačním
 **Odst. 4 – čekací doba** nejméně 24 měsíců od počátku doby spoření; konkrétní délku určují všeobecné obchodní podmínky. Poskytnutí peněžních prostředků z úvěru před jejím uplynutím je přestupkem (§ 16a odst. 2 písm. d)).
 
 **Odst. 5 – překlenovací úvěr** do výše cílové částky na úhradu nákladů bytových potřeb i před vznikem nároku na úvěr ze stavebního spoření. Jde o samostatný úvěr, na nějž dopadají limity § 9 odst. 2 a 3.
+
+**K místní judikaturní kartě NS 32 Cdo 2936/2012** (připojena u § 1, [judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md)): podle její právní věty skutečnost, že stavební spořitelna uzavře smlouvu o překlenovacím úvěru jako s dalším dlužníkem i s osobou, která nemá právo na úvěr ze stavebního spoření ve smyslu odst. 2, nezakládá neplatnost smlouvy vůči tomuto dalšímu dlužníkovi. Karta tak potvrzuje, že omezení okruhu oprávněných osob v odst. 2 a 5 míří na stavební spořitelnu (regulatorní a přestupková rovina), nikoli na platnost závazku spoludlužníka. Rozhodnutí bylo vydáno ke znění zákona účinnému v roce 2012 a k úpravě platnosti právních úkonů před 1. 1. 2014; při aplikaci na smlouvy uzavřené za účinnosti občanského zákoníku č. 89/2012 Sb. je třeba závěr ověřit podle jeho pravidel o neplatnosti.
 
 **Odst. 6 – úrokové sazby.** Smlouva musí obsahovat sazbu z vkladů i z úvěru; rozdíl smí činit **nejvýše 3 procentní body**. *Výkladová otázka:* skutková podstata přestupku v § 16a odst. 2 písm. f) bod 2 je formulována jako nezajištění, aby rozdíl „činil méně než 3 procentní body“; při rozdílu přesně 3 p. b. je tak text obou ustanovení v nesouladu. Ve prospěch adresáta je třeba vycházet z § 5 odst. 6 (rozdíl 3 p. b. je dovolen).
 

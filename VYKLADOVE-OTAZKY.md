@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí zatím k dispozici nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva k dispozici není; místní karta rozhodnutí je jediná ([judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md), k § 5 odst. 2 a 5). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -92,7 +92,7 @@ Kapitola 1 u každého ustanovení uvádí typicky rozhodné důkazy (smlouva a 
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz, kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Den zjištění důvodu vrácení dokumentujte samostatně. Právní argument nenahrazuje skutkové zjištění a zákonnou domněnku nelze dovodit jen z obtížného dokazování.
 
-**Místní opora.** [§ 5 — Smlouva o stavebním spoření](01-stavebni-sporeni.md); [§ 13 — Práva a povinnosti stavební spořitelny](02-statni-podpora-zaverecna.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura zatím chybí (složka `judikatura/` bude doplněna strojově)
+**Místní opora.** [§ 5 — Smlouva o stavebním spoření](01-stavebni-sporeni.md); [§ 13 — Práva a povinnosti stavební spořitelny](02-statni-podpora-zaverecna.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura k dokazování chybí; jediná místní karta [judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md) se týká § 5 odst. 2 a 5 (platnost smlouvy o překlenovacím úvěru vůči dalšímu dlužníkovi)
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -129,10 +129,10 @@ Zásady v místním korpusu výslovně korigují doslovný výklad zejména tam,
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje složku místních karet rozhodnutí; počet karet je **0** a v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Úvod komentáře to výslovně uvádí: „Místní materiály neobsahují rozhodovací praxi soudů ani správních orgánů, která by se k jednotlivým ustanovením vázala; komentář proto žádné spisové značky neuvádí“.
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Složka `judikatura/` bude doplněna strojově později; do té doby jde o vědomou mezeru.
+Repozitář obsahuje **1** místní kartu rozhodnutí: [judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md) (NS 32 Cdo 2936/2012, 19. 12. 2012, kat. A); soubor zásad na ni odkazuje u zásady 3. Karta se týká § 5 odst. 2 a 5 (překlenovací úvěr, další dlužník, platnost smlouvy) a byla vydána k historickému znění zákona a k úpravě před 1. 1. 2014. Komentář k § 5 z ní dovozuje: „Karta tak potvrzuje, že omezení okruhu oprávněných osob v odst. 2 a 5 míří na stavební spořitelnu (regulatorní a přestupková rovina), nikoli na platnost závazku spoludlužníka.“ Zároveň upozorňuje, že „při aplikaci na smlouvy uzavřené za účinnosti občanského zákoníku č. 89/2012 Sb. je třeba závěr ověřit podle jeho pravidel o neplatnosti“.
+Ostatní ustanovení zůstávají bez místní judikatury; judikatorní odpověď se u nich nesmí domýšlet.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (zejména před a po zákoně č. 349/2023 Sb.) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do té doby výkladové otázky označujte jako otevřené.
+**Jak ji řešit.** U místní karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (karta se týká historického znění zákona a úpravy před 1. 1. 2014; dále zejména před a po zákoně č. 349/2023 Sb.) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; výkladové otázky k ostatním ustanovením označujte jako otevřené.
 
 **Místní opora.** [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
@@ -159,7 +159,7 @@ Všech 25 ustanovení má oddíl „G. Protiargumenty a rizika“ a kapitoly vý
 - [§ 2a](01-stavebni-sporeni.md), [§ 3](01-stavebni-sporeni.md), [§ 6](01-stavebni-sporeni.md), [§ 9](01-stavebni-sporeni.md) — rozsah související činnosti, srovnávací užití označení, rekreační objekt, investiční fond jako finanční instituce, trvalost limitů.
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument (místní judikatorní argument zatím chybí), praktický následek a důvod, proč jeden převáží. V sankční rovině nepřipouštějte výklad k tíži adresáta. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument (k uvedeným sporným otázkám místní judikatorní argument chybí), praktický následek a důvod, proč jeden převáží. V sankční rovině nepřipouštějte výklad k tíži adresáta. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [místní kapitola 1](01-stavebni-sporeni.md); [místní kapitola 2](02-statni-podpora-zaverecna.md); [místní zásady](ZASADY.md)
 
@@ -177,9 +177,9 @@ Příklad varianty měnící jedinou rozhodnou skutečnost: „Exekuce by nastal
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **3** kapitoly a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **3** kapitoly a **1** kartu rozhodnutí ([judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md)), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi; složka `judikatura/` se doplní strojově později.
+- místní judikatura je omezena na 1 kartu (NS 32 Cdo 2936/2012) k § 5 odst. 2 a 5, vydanou k historickému znění zákona a k úpravě před 1. 1. 2014; ostatní ustanovení zůstávají bez místní judikatury.
 - místní důvodová zpráva není k dispozici.
 - přechodná ustanovení novel nejsou v místním korpusu v doslovném znění.
 - kapitola 2 nemá u ustanovení samostatný oddíl rozhodných důkazů.

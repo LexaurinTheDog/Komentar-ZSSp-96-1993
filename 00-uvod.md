@@ -2,7 +2,7 @@
 
 > **Znění k 1. červenci 2025** (dokument e-Sbírky `SB-1993-00096_2025-07-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Komentované znění je konsolidací k 1. 7. 2025. Přechodná ustanovení jednotlivých novel (zejména čl. XXII zákona č. 349/2023 Sb. k nové výši státní podpory) nejsou součástí konsolidovaného textu; komentář na ně upozorňuje tam, kde jsou pro časovou působnost pravidla rozhodná. Místní materiály neobsahují rozhodovací praxi soudů ani správních orgánů, která by se k jednotlivým ustanovením vázala; komentář proto žádné spisové značky neuvádí a výklad opírá o text zákona, jeho systematiku, vazby na související předpisy a obecné výkladové zásady. Výkladově sporná místa jsou v kapitolách výslovně označena jako **výkladová otázka**.
+> **Metodická poznámka:** Komentované znění je konsolidací k 1. 7. 2025. Přechodná ustanovení jednotlivých novel (zejména čl. XXII zákona č. 349/2023 Sb. k nové výši státní podpory) nejsou součástí konsolidovaného textu; komentář na ně upozorňuje tam, kde jsou pro časovou působnost pravidla rozhodná. Z místních materiálů je k předpisu k dispozici jediné rozhodnutí, NS 32 Cdo 2936/2012 ([judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md)), které se týká § 5 odst. 2 a 5 (překlenovací úvěr, další dlužník, platnost smlouvy) a bylo vydáno k historickému znění zákona a k úpravě před 1. 1. 2014; k ostatním ustanovením místní judikatura není a výklad se u nich opírá o text zákona, jeho systematiku, vazby na související předpisy a obecné výkladové zásady. Výkladově sporná místa jsou v kapitolách výslovně označena jako **výkladová otázka**.
 
 ---
 
@@ -86,7 +86,7 @@ Doprovodné přehledy: [ZASADY.md](ZASADY.md) (právní zásady doložené doslo
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle e-Sbírky (bez elips), pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr s kontrolním checklistem.
 - Poznámky pod čarou zákona jsou v řadě případů historické (odkazují na zrušené nebo mnohokrát novelizované předpisy); komentář je vždy vztahuje k platné úpravě.
-- Komentář neobsahuje judikaturu ani spisové značky, protože místní materiály k tomuto předpisu žádnou ověřitelnou rozhodovací praxi neobsahují; tam, kde se výklad opírá o úvahu, je to výslovně uvedeno.
+- Komentář obsahuje jedinou místní judikaturní kartu, NS 32 Cdo 2936/2012 ([judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md)), připojenou u § 1 a vyhodnocenou u § 5; týká se § 5 odst. 2 a 5 (překlenovací úvěr, další dlužník, platnost smlouvy) a historického znění zákona a úpravy před 1. 1. 2014. K ostatním ustanovením místní materiály ověřitelnou rozhodovací praxi neobsahují; tam, kde se výklad opírá o úvahu, je to výslovně uvedeno.
 
 ---
 

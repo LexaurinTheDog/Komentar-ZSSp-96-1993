@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v [01-stavebni-sporeni.md](01-stavebni-sporeni.md) a [02-statni-podpora-zaverecna.md](02-statni-podpora-zaverecna.md) a úvodní přehled v [00-uvod.md](00-uvod.md). Repozitář neobsahuje místní judikaturu ani judikatorní karty k tomuto zákonu; zásady níže jsou proto dovozeny výhradně z textu zákona, jeho systematiky a výkladu v kapitolách — nikoli z judikatorních tezí. Žádná spisová značka zde není uvedena; tam, kde by u předpisu s bohatou rozhodovací praxí stála judikatorní citace, je namístě poctivě uvést, že místní opora dosud chybí.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v [01-stavebni-sporeni.md](01-stavebni-sporeni.md) a [02-statni-podpora-zaverecna.md](02-statni-podpora-zaverecna.md) a úvodní přehled v [00-uvod.md](00-uvod.md). Repozitář obsahuje jedinou místní judikaturní kartu, NS 32 Cdo 2936/2012 ([judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md)), která se týká § 5 odst. 2 a 5 (překlenovací úvěr, další dlužník, platnost smlouvy) a byla vydána k historickému znění zákona a k úpravě před 1. 1. 2014; k ostatním ustanovením místní judikatura není. Zásady níže jsou proto dovozeny z textu zákona, jeho systematiky a výkladu v kapitolách — nikoli z judikatorních tezí; karta je zmíněna jen u zásady 3. Jiná spisová značka zde není uvedena; tam, kde by u předpisu s bohatou rozhodovací praxí stála judikatorní citace, je namístě poctivě uvést, že místní opora dosud chybí.
 
 Každá citace v uvozovkách „…“ je doslovně převzata z kapitol tohoto repozitáře; u každé je uveden soubor a ustanovení, k němuž se váže. Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -82,7 +82,11 @@ Základem ochrany je podmíněné subjektivní právo účastníka na úvěr pod
 
 > „Účastník má právo na poskytnutí úvěru ze stavebního spoření na financování bytových potřeb (dále jen „úvěr ze stavebního spoření“) po splnění podmínek tohoto zákona“
 
-K němu přistupuje limit úrokového rozpětí podle § 5 odst. 6 ([01-stavebni-sporeni.md](01-stavebni-sporeni.md)):
+K okruhu oprávněných osob podle § 5 odst. 2 a 5 se vztahuje místní karta NS 32 Cdo 2936/2012 ([judikatura/NS-32-Cdo-2936-2012.md](judikatura/NS-32-Cdo-2936-2012.md)), vydaná k historickému znění zákona a k úpravě před 1. 1. 2014; komentář k § 5 ([01-stavebni-sporeni.md](01-stavebni-sporeni.md)) z ní dovozuje:
+
+> „Karta tak potvrzuje, že omezení okruhu oprávněných osob v odst. 2 a 5 míří na stavební spořitelnu (regulatorní a přestupková rovina), nikoli na platnost závazku spoludlužníka.“
+
+K právu na úvěr přistupuje limit úrokového rozpětí podle § 5 odst. 6 ([01-stavebni-sporeni.md](01-stavebni-sporeni.md)):
 
 > „Rozdíl mezi úrokovou sazbou z vkladů a úrokovou sazbou z úvěru ze stavebního spoření může činit nejvýše 3 procentní body.“
 
