@@ -28,6 +28,11 @@ Ustanovení obsahuje legální definici stavebního spoření. Jde o **účelov�
 
 **Písm. c)** – státní podporu mohou získat jen **fyzické osoby**, a to jen jsou-li účastníky. Pro právnické osoby je stavební spoření pouze spořicím a úvěrovým produktem bez podpory. Slovo „možnost“ vyjadřuje, že podpora není automatická: vyžaduje prohlášení ve smlouvě (§ 5 odst. 1), splnění osobních podmínek (§ 4 odst. 2 a 3) a podmínek části II.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 2936/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5265953C754D2FBFC1257B57003D4BE7?openDocument) — 19. 12. 2012, kat. A
+  > „Skutečnost, že stavební spořitelna uzavře smlouvu o překlenovacím úvěru též s osobou, která nemá právo na poskytnutí úvěru ze stavebního spoření ve smyslu ustanovení § 5 odst. 2 zákona č. 96/1993 Sb., ve znění pozdějších předpisů, jako s dalším dlužníkem, nezakládá důvod neplatnosti smlouvy ve vztahu k dalšímu dlužníkovi"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Banka (nikoli stavební spořitelna) nabízí „spořicí program na bydlení“: klient spoří 6 let, poté získá zvýhodněnou hypotéku; marketing uvádí, že produkt „funguje jako stavební spoření, jen bez státní podpory“.
